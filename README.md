@@ -18,7 +18,7 @@ This project requires PyTorch, OpenCV, NumPy, MatPlotLib, PIL, etc.
 ## Dataset:
 The dataset for this project is from https://tiny-imagenet.herokuapp.com/. To download it, go to the data folder in the master branch and run `get_data.sh`.
 
-## How to Run the Project
+## How to Run the Project:
 1. Create a conda environment and install the packages:
 conda create -n yolo9000-testing python=3.6 pip
 conda activate yolo9000-testing
